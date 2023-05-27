@@ -1,5 +1,5 @@
 
-## Olá, Eu sou a Dayane Silva👋🤓 
+## Olá, eu sou a Dayane Silva👋🤓 
 
   😄 Pronouns: ela/dela
   
