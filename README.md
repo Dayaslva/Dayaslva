@@ -3,7 +3,7 @@
 
   😄 Pronouns: ela/dela
   
- 🌱 Estou aprendendo Python, C++, Windows Server, JavaScript. 
+ 🌱 Estou aprendendo HTML, CSS, Windows Server. 
   
  📚 Atualmente sou estudante dos cursos de: <br>
    > Gestão da Tecnologia da Informação / UNINTER <br> 
