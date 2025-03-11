@@ -3,11 +3,11 @@
 
   😄 Pronouns: ela/dela
   
- 🌱 Estou aprendendo HTML, CSS, Windows Server. 
+ 🌱 Estou aprendendo RUBY. 
   
  📚 Atualmente sou estudante dos cursos de: <br>
    > Gestão da Tecnologia da Informação / UNINTER <br> 
-   > Técnico em informática / SENAC
+
   
 <br/>  
 
